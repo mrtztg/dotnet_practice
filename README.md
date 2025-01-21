@@ -1,6 +1,6 @@
 # C#
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/6afc06fe-8e9b-4b53-84e2-9148620cb602/69eb5357-20a3-487d-a6a0-66497d4876dd/Untitled.png)
+![Compaer C# and Java](assets/images/compare_csharp_java.png)
 
 Can simplify Get/Set methods
 
@@ -114,7 +114,7 @@ static unsafe void Sort(int[] list)
 - `appsettings.json` : To store all connection strings and secret keys. like email secrets, database connection strings, API tokens, so on. We can have different versions for each environment, like `appsettings.Production.json`
 - Any status code/file that doesn’t have html, will go to `wwwroot`  like any css, js, pdf, images, so on
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/6afc06fe-8e9b-4b53-84e2-9148620cb602/759729c4-2e17-4953-9665-1eae26af8adf/image.png)
+![MVC in DotNet](assets/images/mvc_in_dotnet.png)
 
 - In MVC architecture
     - Controller is the brain of our app and most things happen there.
@@ -123,7 +123,7 @@ static unsafe void Sort(int[] list)
     - Controller can have many action methods.
     - Routing pattern in MVC:
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/6afc06fe-8e9b-4b53-84e2-9148620cb602/f9c1812c-a7ad-4b25-b0b8-771e0853647e/image.png)
+![Routing in MVC](assets/images/routing_pattern_in_mvc.png)
 
 - 
     - Default routing in .Net (We can change it):
